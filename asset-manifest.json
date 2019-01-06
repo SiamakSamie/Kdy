@@ -1,7 +1,7 @@
 {
   "main.css": "/Kdy/static/css/main.31ac153b.chunk.css",
-  "main.js": "/Kdy/static/js/main.7b436796.chunk.js",
-  "main.js.map": "/Kdy/static/js/main.7b436796.chunk.js.map",
+  "main.js": "/Kdy/static/js/main.6f4143d7.chunk.js",
+  "main.js.map": "/Kdy/static/js/main.6f4143d7.chunk.js.map",
   "static/js/1.74bcf01b.chunk.js": "/Kdy/static/js/1.74bcf01b.chunk.js",
   "static/js/1.74bcf01b.chunk.js.map": "/Kdy/static/js/1.74bcf01b.chunk.js.map",
   "runtime~main.js": "/Kdy/static/js/runtime~main.d259d082.js",
@@ -12,6 +12,6 @@
   "static/media/mtl4.jpg": "/Kdy/static/media/mtl4.99029597.jpg",
   "static/css/main.31ac153b.chunk.css.map": "/Kdy/static/css/main.31ac153b.chunk.css.map",
   "index.html": "/Kdy/index.html",
-  "precache-manifest.a487fe7da73c477753972d2fedb8b2f8.js": "/Kdy/precache-manifest.a487fe7da73c477753972d2fedb8b2f8.js",
+  "precache-manifest.00a0e4810f8ed19445344d8bcb42702f.js": "/Kdy/precache-manifest.00a0e4810f8ed19445344d8bcb42702f.js",
   "service-worker.js": "/Kdy/service-worker.js"
 }
