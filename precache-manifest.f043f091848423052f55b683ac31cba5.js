@@ -20,19 +20,19 @@ self.__precacheManifest = [
     "url": "/Kdy/static/js/runtime~main.d259d082.js"
   },
   {
-    "revision": "8bfa6fe88cf5f1fbabc5",
-    "url": "/Kdy/static/js/main.8bfa6fe8.chunk.js"
+    "revision": "1500a2cae778f94b2ff7",
+    "url": "/Kdy/static/js/main.1500a2ca.chunk.js"
   },
   {
-    "revision": "f82450c2c3fd9c6f8255",
-    "url": "/Kdy/static/js/1.f82450c2.chunk.js"
+    "revision": "e7d1ac1e95ab1592016a",
+    "url": "/Kdy/static/js/1.e7d1ac1e.chunk.js"
   },
   {
-    "revision": "8bfa6fe88cf5f1fbabc5",
-    "url": "/Kdy/static/css/main.a9067c32.chunk.css"
+    "revision": "1500a2cae778f94b2ff7",
+    "url": "/Kdy/static/css/main.a1c7c703.chunk.css"
   },
   {
-    "revision": "f80d3cc97261658d20bfe272abd235cd",
+    "revision": "25b9585d3f983c54aac80d88a46ca75c",
     "url": "/Kdy/index.html"
   }
 ];
