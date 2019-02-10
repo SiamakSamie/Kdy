@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.ec0f0db0.chunk.css",
-  "main.js": "/static/js/main.7828ef7c.chunk.js",
-  "main.js.map": "/static/js/main.7828ef7c.chunk.js.map",
+  "main.js": "/static/js/main.42b74e55.chunk.js",
+  "main.js.map": "/static/js/main.42b74e55.chunk.js.map",
   "static/js/1.25696316.chunk.js": "/static/js/1.25696316.chunk.js",
   "static/js/1.25696316.chunk.js.map": "/static/js/1.25696316.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -12,6 +12,6 @@
   "static/media/mtl4.jpg": "/static/media/mtl4.99029597.jpg",
   "static/css/main.ec0f0db0.chunk.css.map": "/static/css/main.ec0f0db0.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.3679d79892826cc7a67734f040e7f799.js": "/precache-manifest.3679d79892826cc7a67734f040e7f799.js",
+  "precache-manifest.fa93dad1cd81b15e20834b59f33d5304.js": "/precache-manifest.fa93dad1cd81b15e20834b59f33d5304.js",
   "service-worker.js": "/service-worker.js"
 }
