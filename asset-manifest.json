@@ -1,13 +1,13 @@
 {
   "main.css": "/static/css/main.61dc650e.chunk.css",
-  "main.js": "/static/js/main.2603d3b9.chunk.js",
-  "main.js.map": "/static/js/main.2603d3b9.chunk.js.map",
+  "main.js": "/static/js/main.c73c36e8.chunk.js",
+  "main.js.map": "/static/js/main.c73c36e8.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.c5541365.js",
   "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
   "static/js/2.4cab2774.chunk.js": "/static/js/2.4cab2774.chunk.js",
   "static/js/2.4cab2774.chunk.js.map": "/static/js/2.4cab2774.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.904d0dcbd22911b0617978d25b526ae2.js": "/precache-manifest.904d0dcbd22911b0617978d25b526ae2.js",
+  "precache-manifest.fcce259c67c74311044a0eb5ecbb83c2.js": "/precache-manifest.fcce259c67c74311044a0eb5ecbb83c2.js",
   "service-worker.js": "/service-worker.js",
   "static/css/main.61dc650e.chunk.css.map": "/static/css/main.61dc650e.chunk.css.map",
   "static/media/about.jpg": "/static/media/about.b8c57334.jpg",
@@ -24,7 +24,6 @@
   "static/media/malik.png": "/static/media/malik.d12cd6bb.png",
   "static/media/portfolio.jpg": "/static/media/portfolio.b07d53cd.jpg",
   "static/media/services.jpg": "/static/media/services.b32fd5de.jpg",
-  "static/media/shuttlecontrol.png": "/static/media/shuttlecontrol.c6a5f3d6.png",
   "static/media/siamak.png": "/static/media/siamak.7f8acab4.png",
   "static/media/xtreme.png": "/static/media/xtreme.ab3c00a8.png"
 }
