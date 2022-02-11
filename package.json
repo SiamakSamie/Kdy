@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://kdypro.com",
   "dependencies": {
-    "ajv": "^6.9.1",
+    "ajv": "^6.12.3",
     "axios": "^0.18.0",
     "gh-pages": "^2.0.1",
     "isotope-layout": "^3.0.6",
